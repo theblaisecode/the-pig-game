@@ -196,7 +196,7 @@ main {
    .dice {
       position: absolute;
       left: 50%;
-      top: 31.5rem;
+      top: 33.5rem;
       height: 9rem;
    }
 
@@ -204,10 +204,10 @@ main {
       top: 1rem;
    }
    .btn--roll {
-      top: 43rem;
+      top: 45rem;
    }
    .btn--hold {
-      top: 49rem;
+      top: 52rem;
    }
    
 }
