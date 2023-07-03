@@ -165,3 +165,49 @@ main {
   font-weight: 700;
   color: #c7365f;
 }
+
+@media screen and (max-width: 500px) {
+   main {
+      flex-direction: column;
+      height: 100vh;
+   }
+
+   .name {
+      font-size: 2rem;
+   }
+
+   .score {
+      font-size: 4rem;
+   }
+
+   .current {
+      width: 45%;
+      padding: 1.5rem;
+   }
+
+   .player--1 {
+      margin-top: 12rem;
+   }
+
+   .player--1 .score {
+      margin: 0;
+   }
+
+   .dice {
+      position: absolute;
+      left: 50%;
+      top: 31.5rem;
+      height: 9rem;
+   }
+
+   .btn--new {
+      top: 1rem;
+   }
+   .btn--roll {
+      top: 43rem;
+   }
+   .btn--hold {
+      top: 49rem;
+   }
+   
+}
