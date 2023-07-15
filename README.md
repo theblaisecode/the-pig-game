@@ -1,5 +1,5 @@
 # The Pig Game
-A JavaScript Dice Game. Score 100 points and win the game.
+A simple javascript dice game. Score 100 points and win the game.
 
 Live Project - [https://theblaisecode.github.io/the-pig-game/](https://theblaisecode.github.io/the-pig-game/)
 
